@@ -1,5 +1,5 @@
 # NFT PREVIEW CARD COMPONENT
-   Hey there here i again done a challenge 
+   Hey there here i again done a challenge
 
 ## Tchnologiess used 
 
