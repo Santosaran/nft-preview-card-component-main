@@ -1,4 +1,4 @@
-# NFT PREVIEW CARD COMPONENT 
+# NFT PREVIEW CARD COMPONENT
    Hey there here i again done a challenge 
 
 ## Tchnologiess used 
